@@ -31,3 +31,6 @@ Technologies Used
 Conclusion
 Our Quiz Application is a fun, engaging, and educational platform that provides dynamic question handling,
 instant feedback, and an attractive design. It can be expanded with leaderboards, authentication, and multiplayer quizzes for enhanced functionality.
+
+
+![Image](https://github.com/user-attachments/assets/89c24a03-80f2-4796-be5c-847f0acd57e7)
